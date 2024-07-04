@@ -1,0 +1,63 @@
+## An introduction to ISO 27001: 2022
+Before jumping into the ISO 27001 standard, let’s understand some terms. 
+
+### Information security
+It is a concept that refers to the presentation of 3 properties of information which are CIA
+- **Confidentiality**: Information not being available, or not being disclosed, to unauthorized individuals or entities.
+- **Integrity**: Accuracy and completeness of information, or preventing information from being corrupted.
+- **Availability**: Making the information accessible and usable on demand by an authorized person or entity.
+
+### Information Security Management
+The coordinated activities to achieve, maintain and improve information security, by identifying security risks and applying suitable controls to address them.
+
+### Information Security Management System (ISMS)
+An ISMS is a systematic approach that the company may decide to use when it comes to information security.
+- ISO/IEC 27001 and the ISO/IEC 27000 standards in the family offer a framework for establishing and applying such an information security management system.
+- This standard provide a model for how an organization can design and implement such a system, such as ISMS.
+
+### Principles for the successful implementation of an ISMS
+- Awareness of the need for information security.
+- Assign responsibility for information security.
+- Incorporate management commitment and interests of the stakeholders.
+- Determine the appropriate controls for Risk assessment.
+- Incorporate security as an essential element of information networks and systems.
+- Active prevention and detection of security incidents.
+- Comprehensive approach to information security management.
+- Continued reassessment of information security and make modifications.
+These are taken from ISO/IEC 27000 standard
+
+### ISO/IEC 27000 series of standards
+Here, I’m including only some of the essential standards which a security student must know.
+→ ISO/IEC 27001: Requirements for an ISMS
+→ ISO/IEC 27000: Overview of ISMS, the terms and definitions
+→ ISO/IEC 27002: Information security controls and implementations guidance
+→ ISO/IEC 27003: Explanation and guidance on the requirements in ISO/IEC 27001
+→ ISO/IEC 27005: Guidance on information security risk management.
+**Sector specific standards**
+→ ISO/IEC 27011: Information Security control for organization that handles telecommunication
+→ ISO/IEC 27019: Information Security control for energy utility industry
+→ ISO/IEC 27701: Information Security control work as an extension for privacy of ISO 27001 & ISO 27002. And it has both requirements and guidelines for how an organization can establish a privacy information management system.
+
+### Generic Information about ISO/IEC 27001
+As we know, it is an international standard. The first edition of ISO/IEC 27001 was published on 2005, then it got revised on 2013 and the latest version is ISO/IEC 27001:2022.
+It defines the requirements for an ISMS. It can be used by any organization. And it’s suitable for certification.
+
+### The structure of ISO/IEC 27001
+It has 10 clauses, or we can say 10 chapters, and sub - clauses as well.
+1. Scope
+2. Normative reference → A document to which reference is made in the standard in such a way as to make it indispensable for the application of the standard.
+3. Terms & definitions
+4. Context of the organization
+5. Leadership
+6. Planning
+7. Support
+8. Operation
+9. Performance evaluation
+10. Improvement
+And it has an Annex A as well which contains Information security controls reference.
+Annex consists of 93 controls which is divided into 4 categories.
+- Organizational Controls
+- People Controls
+- Physical Controls
+- Technological Controls
+ISO/IEC 27002 offers details and guidance for all the information security controls Annex A.
