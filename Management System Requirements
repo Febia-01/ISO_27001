@@ -208,3 +208,86 @@ Any change that may impact ISMS like,
 - Changes to information security.
 A good idea for the company would be to develop a roadmap for the implementation of the change.
 Best practice says to test the change on a sample, like an organizational unit or a limited number of users, before its application in the entire company.
+
+## Clause 7: Support
+The process to ensure competency, about information security-related awareness about the internal and external communications relevant for the ISMS and also about the documentation that supports this management system and how this document should be controlled. 
+
+### 7.1 Resources
+Determine and provide the resources needed for the establishment, implementation, maintenance, and continual improvement of the ISMS.
+ISO/IEC 27001 does not have a specific requirement for the company to have documentation to prove that resources have been made available for the ISMS.
+
+### 7.2 Competence
+Requires a process in place to ensure that the necessary competence is available.
+- Define requirements.
+- Ensure competency (education, training, experience).
+- Act to improve or maintain competence.
+- Evaluate the effectiveness of actions.
+Competence can be defined as the ability to apply knowledge and skills to achieve intended results.
+This discusses persons doing work under the organization’s control and who affect its information security performance. So, it refers not only to the employees but to others as well, if necessary.
+Documented information shall be retained by the organization as evidence of competence.
+
+### 7.3 Awareness
+The standard says that the persons who work for the organization should be aware of the information security policy.
+Required by ISO/IEC 27001 Personnel shall be aware of:
+- the information security policy.
+- their contribution to the ISMS and the benefits of improved security performance.
+- the implications of not conforming to requirements.
+This should not be understood as a requirement for everybody in the company to know the details of this policy. The idea is for people to be aware that there is a policy, approved and communicated in the organization, and this means that information security is valued by the top management.
+We don’t have a requirement in the standard to maintain or retain documented information as evidence.
+
+### 7.4 Communication
+Determine the need for internal and external communications relevant to the ISMS.
+Internal as well as external communication is needed in an organization.
+- The standard wants the organization to determine WHAT it will communicate. In other words, in what context, and what information needs to be communicated?
+- The organization will have to decide WHEN to communicate, and what is the best time to initiate communication or to respond to communications.
+- WITH WHOM to communicate should be decided by the organization, (which will be the target audience for different communications)
+- HOW communication to be done should be determined.
+No specific requirements for documented information should be retained or maintained in ISO/IEC 27001.
+
+### 7.5 Documented information
+Documents are necessary to define and communicate security objectives policies and guidelines and controls and what individuals and groups of people are expected to do or to avoid.
+
+**7.5.1 General** 
+The ISMS documentation includes:
+- documents required by ISO/IEC 27001
+- documents not required by the standard but considered necessary for the ISMS
+
+**7.5.2 Creating and updating**
+- Identification and description
+- Adequate format
+- Review and approval
+Usually, to identify documents, the company will define a set of attributes, and use those attributes.
+Documents can be on paper or electronic support or both, there are no limitations here. But it’s important to ensure that they are reviewed and approved before use, to ensure their adequacy and suitability.
+
+**7.5.3 Control of documented information**
+Documents shall be controlled to protect them from improper use, from loss of confidentiality or integrity, and to ensure that they are available and suitable for use where and when needed.
+- Distribution: Should be available to those who need them.
+- Access: access to these documents may be restricted based on person and his need to know and on the type of document.
+- Retrieval
+- Use
+- Storage & preservation: It should be in safe conditions.
+- Version control: the system is necessary because documents are updated and it’s important to be able to identify quickly the current version of a document.
+- Retention: The retention period should be there for obsolete ones.
+- Secure disposal
+So, in clause 7 the discussion is about the elements that support the operations of ISMS.
+
+## Clause 8: Operation
+This is applying, putting into practice, what has been planned under clause 6 with support from the elements in clause 7.
+The standard expected here is for the organization to implement what has been established as necessary actions to address risks and opportunities, achieve objectives, control planned changes, to the ISMS, and mitigate the consequences of unintended changes.
+
+### 8.1 Operational planning and control
+The organization shall plan, implement, and control the processes needed to meet requirements.
+- Control changes
+- Control externally provided processes, products, or services.
+Here the standard refers to any kind of change that may impact information security.
+E.g., changing the access control system in an organization from card access to biometric identification. This is a change that needs to be planned and controlled properly.
+
+### 8.2 & 8.3 Information security risk assessment and treatment
+- Conduct information security risk assessments at planned intervals (possibly once per year), in case of significant changes.
+- Implement the information security risk treatment plan.
+In clause 6 of ISO/IEC 27001 requirements, the risk assessment and treatment are covered. It had about the process that an organization shall apply for the assessment of its information security risks. This process must be executed and not only once, but at planned intervals, says in the clause 8.
+In ISO/IEC 27003 we have the following provisions,
+“A broad information security risk assessment should be performed at least once a  year”.
+27003 is a guidance document, so it is not a requirement, but it should be considered.
+**The risk assessment and risk treatment are key elements of any ISMS.**
+
