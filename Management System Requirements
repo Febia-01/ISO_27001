@@ -1,1 +1,102 @@
+# Management System Requirements of ISO/IEC 27001:2022 [part 1]
+We have seen the structure of the standard in the intro file. The first three clauses are 
+1. Scope
+2. Normative reference
+3. Terms & Definitions
 
+The management system requirements start from clause 4. One more thing I wanted to add here is that this standard works on the principle PDCA, i.e., the Plan Do Check Act.
+Let’s check the clauses one by one.
+
+## Clause 4: Context of the organization
+The standard expects the company to analyze itself and the world around it, to become aware of the realities inside and outside. Because some factors or issues will influence the way information security should be managed. 
+This clause has 3 sub-clauses. We will understand that in detail.
+
+### 4.1 Understanding the organization and its context
+Determine the external and internal issues that are relevant to the purpose of the organization and that affect its ability to achieve the intended outcomes of the ISMS.
+Purpose:
+1. Adapt ISMS to the context of the organization.
+2. Determine the scope of the ISMS.
+3. Enable the company to determine risks & opportunities in its context.
+**External issues:** outside the organization's control (e.g, political, legal, technological, social, cultural, competitive, or natural factors)
+**Internal issues:** under the control of the organization (e.g., resources, knowledge, contractual relationships, objectives, etc.)
+We don’t have any specific requirement in ISO/IEC 27001 to document the external and internal issues once identified. However, it’s a good idea to document them, to create, for example, a list of internal and external issues and to detail a bit about how they can influence the company and its ISMS.
+- In an audit, it will be much easier for an organization to prove to the auditor that the context has been done with documents, than without any documents.
+- It’s better to document the context of the organization, even though we don’t have a specific requirement in the standard for documentation.
+Review the external and internal issues on ISMS periodically.
+
+### 4.2 Understanding the needs and expectations of interested parties
+This is about interested parties or stakeholders.
+- Determine the interested parties relevant to the ISMS.
+- Determine the requirements of interested parties.
+- Determine which requirements will be addressed through the ISMS.
+Interested parties refer to persons or organizations that can affect, that can affected by, or that perceive themselves to be affected by decisions or activities.
+Stakeholders are of two types:
+1. Internal stakeholders
+2. External stakeholders
+No specific requirement in ISO/IEC 27001 to have documented information on the interested parties.
+But if maintained, it will be beneficial. A list of identified stakeholders and what they expect from the organization, in terms of information security.
+
+### 4.3 Determine the scope of the ISMS
+Determine the boundaries and applicability of the ISMS to establish its scope (what is covered by the ISMS).
+- The scope defines where and for what exactly the ISMS is applicable and where and for what it does not apply.
+- The scope serves as the foundation for other activities that will be performed later.
+The scope must be documented according to ISO/IEC 27001. This means that it has to be written and the organization will choose where it will document the scope of its ISMS. It can be part of a document like the information security policy or it can be a part of an information security manual. Or, another option is for the scope to be a document of its own.
+There can be different situations of organizations or parts of organizations that can implement an ISMS. It can be the whole entity implementing the system, like a company, a corporation, a public institution, etc.. It's possible also for the system to be implemented by an organization that is only a part of a larger legal entity. Or the ISMS can be applied only for some specific functions or services or locations, operated by an organization. So, there can be different situations, and that's why it's very important to establish the scope of the ISMS, because the scope serves as the foundation for other activities that will be performed.
+
+### 4.4 Information security management system
+Establish, implement, maintain, and continually improve an ISMS by the requirements of ISO/IEC 27001.
+- Integrate the ISMS into the processes and the business activities of the organization.
+- Don't forget about the continual improvement of the ISMS.
+The logic behind the requirements in this sub-clause of the standard would be, that all the other provisions in ISO/IEC 27001 refer to elements of the ISMS, like scope; risk assessment, etc.
+### An amendment
+We have another subject to cover and that should be considered here, in clause 4, about the context of the organization. This is something that was added to the standard after its publication. It's an **amendment to ISO/IEC 27001** published by ISO in February 2024, and its title is Climate action changes. A similar amendment has been added to many other popular management system standards published by ISO, so this is not something particular to ISO/IEC 27001 and to information security management. But, the requirements in this amendment, actually the requirement, because there is only one requirement, is mandatory for the companies implementing an ISMS.
+**CLIMATE ACTION CHANGES**
+- The organization shall determine whether climate change is a relevant issue.
+Well, this amendment wants to ensure that the organization considers climate change also as a potentially relevant external issue for its context. To make it clear, the standard does not ask to include climate change in the identification of external issues part of the context. It expects the organization to analyze its particular situation and its context and then to determine whether climate change is or not a relevant issue.
+Now, what this amendment to the standard does not do, and what I think it's important, is to detail how climate change can impact the information security performance of a company.
+**IMPACT OF CLIMATE CHANGE ON INFORMATION SECURITY**
+- Physical threats to infrastructure
+- Supply chain disruptions
+- Operational challenges
+- Cybersecurity threats
+Interested parties can have requirements related to climate change
+This is all about clause 4 and I want to cover one more clause here which is Leadership
+
+## Clause 5: Leadership
+Top management is a person or a group of people who direct and control an organization at its highest level.
+
+### 5.1 Leadership and Commitment
+The top management shall demonstrate leadership and commitment concerning the ISMS. The standard has some specific requirements as to what exactly the top management must do to show this leadership and commitment.
+What the top management should do?
+- Ensure that an information security policy and information security objectives are established.
+- Ensure the ISMS is integrated into the processes of the organization.
+- Ensure the necessary resources for the ISMS.
+- Communicate about the need for information security.
+- Ensure that the ISMS achieves its intended outcomes.
+- Promote continual improvement.
+- Direct and support persons to contribute to the ISMS.
+- Support managers to demonstrate their leadership.
+
+### 5.2 Policy
+The top management must establish an information security policy.
+It has to be communicated inside the organization.
+It should be available to interested parties, as appropriate.
+Information Security Policy 
+- Appropriate to the purpose of the organization.
+- includes the information security objectives, or provides a framework for setting those objectives.
+- includes commitments to satisfy applicable requirements and for continual improvement.
+This policy serves as visible evidence of the support that the ISMS receives from the leaders of the organization.
+What is the Information security policy about?
+- should include generic information.
+- describe the importance of information security for the organization.
+- should provide direction for the activities that relate to information security management.
+All the specific policies of the company, its activities, its objectives, and its procedures, related to information security should be aligned with this policy.
+The information security policy must be documented. It must be written.
+
+### 5.3 Organizational roles, responsibilities, and authorities
+The top management shall 
+- ensure that responsibilities and authorities for roles relevant to information security are assigned and communicated.
+- Ensure the ISMS conforms to requirements.
+- Report to the top management on the performance of the ISMS.
+This framework means that the policy should describe aspects like who sets the information security objectives, how they are communicated, how they are disseminated at lower levels in the company and how their accomplishment is evaluated. Well, the top management does not need to assign all the responsibilities and authorities. But they have to ensure that it is taken care of.
+So, clause 5 was all about the top management of the company and its involvement and its support for the ISMS.
