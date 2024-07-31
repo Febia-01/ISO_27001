@@ -19,7 +19,7 @@ Purpose:
 3. Enable the company to determine risks & opportunities in its context.
 **External issues:** outside the organization's control (e.g, political, legal, technological, social, cultural, competitive, or natural factors)
 **Internal issues:** under the control of the organization (e.g., resources, knowledge, contractual relationships, objectives, etc.)
-We don’t have any specific requirement in ISO/IEC 27001 to document the external and internal issues once identified. However, it’s a good idea to document them, to create, for example, a list of internal and external issues and to detail a bit about how they can influence the company and its ISMS.
+We don’t have any specific requirement in ISO/IEC 27001 to document the external and internal issues once identified. However, it’s a good idea to document them, to create, for example, a list of internal and external issues, and to detail a bit about how they can influence the company and its ISMS.
 - In an audit, it will be much easier for an organization to prove to the auditor that the context has been done with documents, than without any documents.
 - It’s better to document the context of the organization, even though we don’t have a specific requirement in the standard for documentation.
 Review the external and internal issues on ISMS periodically.
@@ -41,7 +41,7 @@ Determine the boundaries and applicability of the ISMS to establish its scope (w
 - The scope defines where and for what exactly the ISMS is applicable and where and for what it does not apply.
 - The scope serves as the foundation for other activities that will be performed later.
 The scope must be documented according to ISO/IEC 27001. This means that it has to be written and the organization will choose where it will document the scope of its ISMS. It can be part of a document like the information security policy or it can be a part of an information security manual. Or, another option is for the scope to be a document of its own.
-There can be different situations of organizations or parts of organizations that can implement an ISMS. It can be the whole entity implementing the system, like a company, a corporation, a public institution, etc.. It's possible also for the system to be implemented by an organization that is only a part of a larger legal entity. Or the ISMS can be applied only for some specific functions or services or locations, operated by an organization. So, there can be different situations, and that's why it's very important to establish the scope of the ISMS, because the scope serves as the foundation for other activities that will be performed.
+There can be different situations of organizations or parts of organizations that can implement an ISMS. It can be the whole entity implementing the system, like a company, a corporation, a public institution, etc.. It's possible also for the system to be implemented by an organization that is only a part of a larger legal entity. Or the ISMS can be applied only for some specific functions services or locations, operated by an organization. So, there can be different situations, and that's why it's very important to establish the scope of the ISMS because the scope serves as the foundation for other activities that will be performed.
 
 ### 4.4 Information security management system
 Establish, implement, maintain, and continually improve an ISMS by the requirements of ISO/IEC 27001.
@@ -49,10 +49,10 @@ Establish, implement, maintain, and continually improve an ISMS by the requireme
 - Don't forget about the continual improvement of the ISMS.
 The logic behind the requirements in this sub-clause of the standard would be, that all the other provisions in ISO/IEC 27001 refer to elements of the ISMS, like scope; risk assessment, etc.
 ### An amendment
-We have another subject to cover and that should be considered here, in clause 4, about the context of the organization. This is something that was added to the standard after its publication. It's an **amendment to ISO/IEC 27001** published by ISO in February 2024, and its title is Climate action changes. A similar amendment has been added to many other popular management system standards published by ISO, so this is not something particular to ISO/IEC 27001 and to information security management. But, the requirements in this amendment, actually the requirement, because there is only one requirement, is mandatory for the companies implementing an ISMS.
+We have another subject to cover and that should be considered here, in clause 4, about the context of the organization. This is something that was added to the standard after its publication. It's an **amendment to ISO/IEC 27001** published by ISO in February 2024, and its title is Climate Action Changes. A similar amendment has been added to many other popular management system standards published by ISO, so this is not something particular to ISO/IEC 27001 and information security management. But, the requirements in this amendment, actually the requirement, because there is only one requirement, is mandatory for the companies implementing an ISMS.
 **CLIMATE ACTION CHANGES**
 - The organization shall determine whether climate change is a relevant issue.
-Well, this amendment wants to ensure that the organization considers climate change also as a potentially relevant external issue for its context. To make it clear, the standard does not ask to include climate change in the identification of external issues part of the context. It expects the organization to analyze its particular situation and its context and then to determine whether climate change is or not a relevant issue.
+Well, this amendment wants to ensure that the organization considers climate change also as a potentially relevant external issue for its context. To make it clear, the standard does not ask to include climate change in the identification of external issues as part of the context. It expects the organization to analyze its particular situation and its context and then to determine whether climate change is not a relevant issue.
 Now, what this amendment to the standard does not do, and what I think it's important, is to detail how climate change can impact the information security performance of a company.
 **IMPACT OF CLIMATE CHANGE ON INFORMATION SECURITY**
 - Physical threats to infrastructure
@@ -98,5 +98,113 @@ The top management shall
 - ensure that responsibilities and authorities for roles relevant to information security are assigned and communicated.
 - Ensure the ISMS conforms to requirements.
 - Report to the top management on the performance of the ISMS.
-This framework means that the policy should describe aspects like who sets the information security objectives, how they are communicated, how they are disseminated at lower levels in the company and how their accomplishment is evaluated. Well, the top management does not need to assign all the responsibilities and authorities. But they have to ensure that it is taken care of.
+This framework means that the policy should describe aspects like who sets the information security objectives, how they are communicated, how they are disseminated at lower levels in the company, and how their accomplishment is evaluated. Well, the top management does not need to assign all the responsibilities and authorities. But they have to ensure that it is taken care of.
 So, clause 5 was all about the top management of the company and its involvement and its support for the ISMS.
+
+Here is the next requirement.
+## Clause 6: Planning
+The planning for everything that has to be implemented will take place under this chapter. There are three sub-clauses for this. Let’s check it in detail.
+
+### 6.1 Actions to address risks and opportunities
+Determine risks and opportunities and plan actions to address them.
+First, let’s understand what is risk.
+Risk is the potential for an event or action to cause harm or loss to an organization. This is a threat exploiting a vulnerability which results in a significant impact on the organization.
+Risks are of two types. i.e., Risks about the ISMS and risks about information security (loss of CIA).
+1. Risks related to ISMS.
+    For e.g,  
+    - Unclear processes and responsibilities for information security management.
+    - Poor engagement of the top management.
+    - Poor awareness of employees about the information security system and its purpose.
+    - Insufficient documentation for the ISMS.
+    ISO/IEC 27001 does not say that the organization shall access the risks in this category. Determine them and plan actions to address them.
+    ISO/IEC 27003 says that the company can very well consider the word “determine” to be equivalent to “assess”.
+2. Risks related to information security
+    Any threat that can exploit a vulnerability and cause the loss of CIA.
+    For example, a man-in-the-middle (MITM) attack, DoS attack, Phishing attack, etc.
+
+**6.1.1 General**
+We could say that an ISMS is mostly about managing information security risks.
+- An ISMS should serve as a preventive tool.
+- Proper risk management is the key to an effective information security system.
+Risk management includes risk assessment and risk treatment. 
+ISO/IEC 27005 standard dedicated to information security risk management offers guidelines for risk identification, risk analysis, risk evaluation or treatment, and other aspects as well.
+
+**6.1.2 Information security risk assessment**
+Define and apply a process for the information security risk assessment.
+**Risk**: the effect of uncertainty on objectives. 
+**Information security risks**: associated with the potential that threats will exploit the vulnerabilities of an information asset and cause harm to an organization.
+RISK = Consequences x Likelihood
+- Criteria for performing information security risk assessments refer to consequences, likelihood, and level of risk.
+- The combination of consequences and likelihood will give us a level of risk.
+Repeated information security risk assessments should produce consistent, valid, and comparable results.
+Risk identification approaches: event-based and asset-based.
+**Risk owners**: Identify risk owners (persons of entities with the accountability and authority to manage risks.).
+**Risk analysis:** Assets possible consequences and realistic likelihood for the risks identified to determine the level of risk.
+**Risk evaluation**: Compare the results of the risk analysis with the acceptance criteria.
+The risk assessment method used by the company should fulfill three conditions:
+1. If different persons assess the same risks in the same context, then the result will be similar.
+2. It should be possible to compare the results of repeated assessments.
+3. The assessment of information security risk procedures results in that record as much as possible to reality.
+Step 1: Identify the risk and risk owner
+Step 2: Analyze the risk
+Step 3: Evaluate the risk
+The standard requires that the organization retains documented information about its risk assessment.
+
+**6.1.3 Information security risk treatment**
+Risk treatment process
+- select appropriate treatment options
+- determine the appropriate controls
+- formulate a risk treatment plan
+- obtain the approval of risk owners for the plan, and acceptance for residual risks.
+Risk treatment methods
+1. Risk Avoidance
+2. Risk Mitigation
+3. Risk Acceptance
+4. Risk Transfer
+This will be implemented through
+1. Preventive [Eg, information classification]
+2. Detective [Eg, Logging]
+3. Corrective [Eg, information backup]
+**Statement of Applicability (SoA)**
+This is the map of the ISMS implementation.
+It contains:
+- necessary controls (including justification for inclusion and implementation status)
+- justification for the controls excluded
+It is possible that some of the controls in Annex A cannot be applied because of the characteristics of the company.
+ISO/IEC 27001 says that the organization shall produce a statement of applicability where it should include the information security controls that are considered necessary, justification for why they are needed, in other words, why they have been included, the status of their implementation, because control can be fully implemented, it can be partially implemented or not implemented. And one more thing, the statement of applicability should include a justification for why any control from Annex A has been excluded by the organization. So, we need justification for why controls have been included in the statement of applicability and there can be a single generic justification for all.
+Another document to be produced by the organization according to ISO/IEC 27001 is the Risk treatment plan. The purpose of the risk treatment plan is to document for each risk what treatment options or options proposed for treating each risk and their status. And information about who is responsible and accountable for the treatment of each risk.
+Retain documented information about the risk treatment process.
+For each information security risk:
+- treatment options
+- actions to treat the risk
+- status of implementation
+- responsibilities, resources, timeframes
+**Residual risk:** the risk that remains after treatment (accepted by the risk owner).
+
+### 6.2 Information security objectives and planning to achieve them
+Establish information security objectives at relevant functions and levels.
+- Set security objectives.
+- Plan to achieve the objectives.
+Requirements proposed by ISO/IEC 27001:
+- Consistent with the policy
+- Measurable (if practicable)
+- Take into consideration applicable requirements
+- Monitored, communicated, and updated (as appropriate)
+Plan for the achievement of information security objectives.
+> What will be done?
+> What resources are necessary?
+> Who will be responsible?
+> When each objective will be completed?
+> How the results will be evaluated?
+For example, if an organization sets an objective to implement a new DLP (Data Loss Prevention solution) in the next year, then it should specify what exactly will be done, define criteria, compare offers, contact vendors, test the product, etc. Who is responsible for coordinating the process, what resources will be committed to this project, or what will be the timelines and milestones for the activities involved?
+ISO/IEC 27001 wants documented information to be available on the information security objectives and the plans for their achievement.
+In the case of an audit for the ISMS, most certainly the auditor will ask for documented information as evidence of establishing and following.
+
+### 6.3 Planning of changes
+Changes to the ISMS shall be carried out in a planned manner, to avoid unwanted consequences.
+Any change that may impact ISMS like,
+- Changes to personnel,
+- Changes to processes.
+- Changes to information security.
+A good idea for the company would be to develop a roadmap for the implementation of the change.
+Best practice says to test the change on a sample, like an organizational unit or a limited number of users, before its application in the entire company.
