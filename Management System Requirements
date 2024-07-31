@@ -291,3 +291,91 @@ In ISO/IEC 27003 we have the following provisions,
 27003 is a guidance document, so it is not a requirement, but it should be considered.
 **The risk assessment and risk treatment are key elements of any ISMS.**
 
+Clause 9 and clause 10 of the standard are explained here.
+You might be aware of the structure of ISO/IEC 27001:2022.
+
+## Clause 9: Performance Evaluation
+This standard works on the principle PDCA, that is Plan Do Check and Act. All the operations that are implemented have to be evaluated to make sure that it is efficiently working. This has 3 sub-clauses and we will see that in detail. 
+
+### 9.1 Monitoring, measurement, analysis and evaluation
+Determine:
+- what needs to be monitored and measured
+- methods
+- when to monitor and measure
+- responsibilities
+- when the results are analyzed and evaluated
+This clause speaks about monitoring & measuring. The difference between these terms is,
+**Monitoring:** determines the status of a system, process, or activity.
+**Measurement:** process of determining a value.
+ISO/IEC 27004 is a standard that is dedicated to the subject monitoring and measurement of information security performance and ISMS. And the analysis and evaluation of the results obtained from monitoring and measurement.
+Documented information shall be retained as evidence of the results of monitoring, measurement, analysis, and evaluation. **
+I'm going to take some examples from ISO/IEC 27004 that will help us understand better what our standard (ISO/IEC 27001) requires. 
+Well, according to ISO/IEC 27004 systems, processes or activities can be subject to monitoring. 
+For example, the process of incident management or the activities related to security is awareness and training access control event logging business continuity management, and so on.
+Measurement is the process of determining a value, as I said. Like for example, the percentage of laptops with hard disk encryption. Information security controls are candidates for measurement.
+For example, the organization may want to measure the frequency of events that a control can cope with before it fails. Or it may be interesting to see how long after the occurrence of an event it takes for the control to detect that the event has occurred. It's recommended, not required but recommended, for the organization to establish a procedure or procedures, where to document what it will monitor and measure when it will do that.
+For example, data on security incidents can be collected continually. Who is responsible and how? What method is the organization going to use for monitoring and measurement? Data can be collected with automated tools or manually. 
+The monitoring and measurement activities will generate data, of course, data that must be analyzed to identify gaps between the expected and the actual results. 
+We started from the premise that the organization should be able to understand if its information security activities and efforts generate the expected results. In other words, if they are effective. 
+Well, evaluation is the process of interpreting the data analyzed before, to get to the answer that the company is looking for.
+
+### 9.2 Internal Audit
+Conduct internal audits of the ISMS at planned intervals.
+Audit Programme
+- Plan, establish, implement, and maintain an internal audit program.
+- Consider the importance of processes and the results of previous audits.
+The internal audit of the ISMS
+- Select objectives auditors
+- Elaborate an audit plan for each audit
+- Report the results to the relevant management
+The internal audits are also meant to evaluate if the ISMS has effectively implemented an internal audit program.
+According to ISO/IEC 27001, the organization shall elaborate and implement an internal audit program. The audit program refers usually to a set of audits to be performed during a period. The audit program and audit plan are different. 
+The plan shall identify the scope of the audit, the processes, activities, and organizational units to be audited as well as the time it will take for the audit to be completed. Audit criteria will also be included. 
+ISO 19011: Guidelines for auditing management systems. 
+Document the information as evidence of internal audits.
+
+### 9.3 Management review
+Conduct management reviews at planned intervals, to ensure that the ISMS continues to be suitable, adequate, and effective.
+There are three sub-clauses for this as well.
+9.3.1 General
+9.3.2 Management review inputs
+9.3.3 Management Review Results
+ISMS is reviewed
+**suitable** → aligned with the objectives of the company.
+**adequate** → system is sufficient.
+**effective** → achieve the results intended.
+We don’t have a definite frequency for this but, it should be conducted periodically. 
+Inputs: 
+- Status of actions from previous reviews
+- Changes to the context of the organization
+- Feedback on the information security performance
+- Feedback from interested parties
+- Results of the risk assessment and risk treatment plan
+- Opportunities for improvement
+Results
+- Decisions related to continual improvement
+- Changes to the ISMS
+There is a recommendation in ISO/IEC 27003, that all aspects of the ISMS should be reviewed, at least yearly.
+Documented information should be retained as evidence of the management review results.
+
+## Clause 10: Improvement
+After evaluating the performance of the operations required improvements have to be made. 
+
+### 10.1 Continual improvement
+Improve continually the suitability, adequacy, and effectiveness of the ISMS.
+The company should treat its ISMS as an evolving, learning, and living part of the business. 
+Let me give you some ideas of what can be considered improvements in the ISMS. 
+For example, documenting some new policies or procedures. Or on the contrary, merging some existing documents or eliminating redundant documentation. Improving the monitoring and measurement of performance. Improving the internal audits through the use of more experienced auditors, or maybe by increasing the frequency of audits for key processes and operations, using a more detailed methodology for the assessment of information security risks, or lowering the threshold for risk acceptance.
+
+### 10.2 Non-conformity and Corrective Plan
+Managing nonconformities
+- React → correct and control the situation, deal with the consequences.
+- Investigate → Evaluate the need for the corrective actions
+- Identify cause → Purpose corrective actions
+- Evaluate → Evaluate the effectiveness of corrective actions
+Nonconformity means non-fulfilment of a requirement. Non-conformity can be a failure to fulfill a requirement of ISO/IEC 27001, completely or partially.
+The existence of an information security incident does not necessarily imply that there is a non-conformity there. 
+Correction: The action that will address a nonconformity and its consequences.
+Just correcting and addressing its consequences is not enough. The needed actions have to be taken appropriately.
+Documented information should be retained by the organization on the non-conformities identified in the actions taken in response and on the results of corrective actions.
+This is all about the clauses of ISO/IEC 27001:2022. Now, we are left with the security controls in Annex A of the standard.
