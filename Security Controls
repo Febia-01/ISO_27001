@@ -96,3 +96,157 @@ To reduce workload, in certain circumstances like the case of public documents, 
 - Consider the transfer of information on electronic and paper support, as well as the verbal transfer of information.
 
 ISO/IEC 27002 provides some guidelines for electronic transfers, and transfer of information on physical support including paper and verbal transfer of information.
+
+### A 5.15 Access control
+
+- Rules to control the physical and logical access to information and other associated assets shall be established and implemented based on business and information security requirements.
+- Consider a topic-specific policy on access control to define principles, generic provisions, rules, or responsibilities.
+
+As a preventive control, it is intended to preserve the confidentiality, integrity, and availability of information by ensuring that only authorized access to it is allowed and unauthorized access is prevented.
+
+**MAC → Mandatory access control**: MAC restricts access based on security policies defined by the system administrator.
+
+For example, in government environments, different security clearances (like Top Secret, Secret, and Confidential) dictate access to classified information.
+
+**DAC → Discretionary access control:** DAC allows owners of resources to determine who can access those resources. 
+
+For instance, a file system where users can set permissions (read, write, execute) on their files is a classic example of DAC.
+
+**RBAC → Role-based access control**: RBAC assigns permissions to roles rather than individuals. Users inherit permissions based on their assigned roles, simplifying access management. 
+
+In a university system, roles like student, professor, and administrator might have predefined access levels to academic records and administrative tools.
+
+**ABAC → Attribute-based access control**: ABAC uses attributes of users, systems, and resources to define access policies.
+
+For example, access to a document might be based on attributes like the user's department, the document's sensitivity level, and the time of day.
+
+The principle is that every company is free to choose the appropriate options, considering its specifics, its resources, and other factors.
+
+The principles for spending different access control functions like access request and access authorization should be documented.
+
+### 5.16 Identity management
+
+- The full life cycle of identities shall be managed
+- Identity management should allow for the unique identification of persons and systems accessing information assets, and it should enable the appropriate assignment of access rights.
+
+**Identity management guidelines from ISO 27002.**
+
+→ One identity should be linked to one single person. [If there is a need to assign the same ID to several persons, then this is possible but it has to be justified.]
+
+→ Identities no longer required must be disabled.
+
+→ Logging and monitoring can be effective with this.
+
+### 5.17 Authentication information
+
+- Control the allocation and management of authentication information with a management process, including advising personnel on the appropriate handling of authentication information.
+- Consider the allocation of authentication information, the responsibilities of users, and a password management system.
+
+The idea is to grant access to information and associated assets, a user shall go through an authentication process.
+
+In ISO/IEC 27002, we have guidelines for the allocation of authentication information, for the responsibilities of users about the management of this information, as well as for password management.
+
+### 5.18 Access rights
+
+- Provide, review, modify, and remove access rights to information and other associated assets by the topic-specific policy and rules on access control.
+- Ensure that only authorized users have access to information and associated assets.
+- Separate the approval of access rights from their implementation.
+- Review access rights periodically and make necessary adjustments.
+
+**Access rights guidelines in ISO 27002.**
+
+→ The provisioning of access rights to an asset should only be done after obtaining proper authorization from the owner of that asset and/or from the management if necessary.
+
+→ There should be a separation between the approval of access rights and their actual implementation.
+
+→ The activation of access rights must come after the successful completion of the authorization process and not before.
+
+→ The access rights of those who leave the company or change positions should be removed.
+
+→ There should be a central record of access rights granted  to a user ID.
+
+and so on.
+
+### 5.19 Information security in supplier relationships
+
+- Define and implement processes and procedures to manage the information security risks that are associated with the use of products and services obtained from suppliers.
+- Consider a topic-specific policy to describe principles, requirements, and basic security controls that suppliers are expected to apply.
+### 5.20 Addressing information security within supplier agreements
+
+- Establish and agree with each supplier relevant information security requirements based on the type of supplier relationship.
+- Include information security requirements in the contracts or agreements.
+
+Let's see **some of the recommendations in ISO/IEC 27002.**
+
+→ Include or reference a description of the information classification scheme to ensure both parties use the same system, or provide a mapping if different schemes are used.
+
+→ Detail the obligations of both parties regarding the implementation of security controls.
+
+→ Include any legal, statutory, or regulatory requirements, such as privacy legislation, and how both parties intend to comply.
+
+→ Define the process and conditions for authorizing supplier access to information, including identifying persons authorized to access the company's information and associated assets.
+
+→ Specify screening requirements for suppliers' personnel with access to sensitive information.
+
+→ Designate contact persons for information security matters.
+
+→ Outline possible consequences if the supplier fails to meet the company's security requirements.
+
+→ Describe how incidents are to be managed.
+
+→ Clarify if the supplier is allowed to subcontract work and, if so, outline the conditions and security requirements that apply.
+
+→ Refer to business continuity and disaster recovery arrangements in the contract, including backup requirements such as frequency, type, location, and safe transfer of information between parties.
+
+→ Define obligations for the supplier to provide periodic reports on the effectiveness of its security controls.
+
+→ Include arrangements for the termination of the contract, specifying requirements for the return of assets, ongoing confidentiality, and transfer of information created during the contract to the organization or another supplier.
+
+### 5.21 Managing information security in the information and communication technology (ICT) supply chain
+
+- Define and implement processes and procedures to manage the information security risks associated with the ICT products and services supply chain.
+- Require suppliers to propagate appropriate security practices throughout the supply chain.
+- Work with suppliers to solve issues and share information about products and services.
+
+Establishing and communicating information security requirements to suppliers and ensuring that they comply is not enough. The company shall also consider and address the risks of the supply chain of information and communication technology, products, and services. That’s the idea behind this control.
+
+Not easy to apply this control, especially in the case of small or medium-sized organizations.
+
+Considering the complicated supply chains of today, it's difficult to know where products like hardware or software that can have a significant impact on information security originate. So, what can be done?
+
+Well, **according to ISO/IEC 27002,**
+
+→ Require suppliers to propagate appropriate security practices throughout the supply chain if they subcontract services or buy hardware components incorporated into products sold to the organization.
+
+→ Identify critical components purchased for operations and ensure an adequate level of information security.
+
+→ Trace critical products throughout the supply chain and identify their origin.
+
+→ Collaborate with suppliers and share information about the ICT supply chain and any issues that may arise.
+
+→ Require ICT product suppliers to provide information about the software components used in their products.
+
+→ While clear traceability for all products and components may not be possible, verify and confirm through testing, credible certifications, and other methods that security requirements are met and that products are genuine and unaltered from their specifications.
+
+### 5.22 Monitoring, review, and change management of supplier services
+
+- Regularly monitor, review, evaluate, and manage changes in supplier information security practices and service delivery.
+- Ensure that services maintain an agreed level and changes to services do not come with a negative impact on information security.
+
+**According to ISO/IEC 27002**,
+
+→ Monitor the performance levels for the services received from suppliers to confirm that what has been agreed is delivered.
+
+→ Assign an individual or a team to be responsible for monitoring that the provisions in the service agreements are met.
+
+→ Obtain reports from suppliers on service levels.
+
+→ Hold regular meetings with suppliers to discuss the provision of services and assess progress.
+
+→Conduct audits of suppliers and sub-suppliers, and review independent audit reports relevant to the way suppliers manage information security.
+
+→ Monitor any changes to supplier services, such as enhancements, new technologies, new applications or systems, updated policies, new information security controls, new sub-suppliers, and new locations, for any potential negative impact on information security.
+
+→ Ensure suppliers have adequate business continuity and disaster recovery arrangements to continue providing services at an adequate level in case of a major failure or disaster.
+
+→ Investigate any operational problems, events, or disruptions in the provision of services, and review audit trails or records.
