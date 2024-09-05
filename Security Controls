@@ -1,0 +1,66 @@
+There are 93 security controls that an organization must apply, must implement, as part of its ISMS.
+
+## Organizational controls
+
+All the controls that has to be applied in an organization level comes under this category. There are 37 controls under this category.
+
+### A 5.1 Policies for information security
+
+- Define, approve by management, publish, communicate and acknowledge by relevant personnel and interested parties on information security policy and topic - specific policies. The policies must be reviewed at planned intervals and in case of significant changes.
+- A high-level information security policy supported by topic-specific policies on different subjects (e.g., incident management, access control, backup, asset management, etc.)
+
+### A 5.2 Information security roles and responsibilities
+
+- Define and allocate roles and responsibilities for information security, according to the needs of the organization.
+- Communicate roles and responsibilities for information security and ensure they are understood
+
+The standard is not very prescriptive here. It offers freedom to the organization to decide which are the roles and responsibilities that it considers necessary. But it’s important to make sure that employees are aware of their tasks and responsibilities. 
+
+### A 5.3 Segregation of duties
+
+- Segregate conflicting duties and areas of responsibility.
+- Avoid the situation where a single person has full control.
+- Consider key transactions, relationships or activities.
+
+It’s up to the organization to determine where segregation is necessary and how this principle will be applied.
+
+### A 5.4 Management Responsibilities
+
+- All personnel shall be required by management to apply information security according to the policies and procedures of the organization.
+- Top management plays a key role for information security.
+
+The management should ensure that a whistle blowing system exists so that violations of information security rules can be reported.
+
+### A 5.5 Contact with authorities
+
+- Establish and maintain contact with relevant authorities.
+- To prepare for upcoming legal changes, to improve legal and regulatory compliance and to be use in case of security incidents.
+
+Maintaining contact with the authorities is both preventive and corrective control. And to implement this control the management should appoint one or more individuals to have this responsibility of maintaining the contact.
+
+### A 5.6 Contact with special interest groups
+
+- Establish and maintain contacts with special interest groups, security forums or professional associations.
+- To stay informed about threats or security best practices and to get support when dealing with a security incident.
+
+Maintaining contact with the special interest groups is both preventive and corrective control. And to implement this control the management should appoint one or more individuals to have this responsibility of maintaining the contact.
+
+### A 5.7 Threat intelligence
+
+- Collect and analyze information relating to information security threats to produce threat intelligence.
+- Produce threat intelligence or rely on external parties (consultants, governmental agencies, etc.). Share threat intelligence with others.
+
+An organization can produce threat intelligence on its own. But this is difficult and quite rare because it requires resources. So, it’s usually something that only a few and mostly large organizations can do. The option for most companies is to obtain threat intelligence. 
+
+### A 5.8 Information security in project management
+
+- Integrate information security into project management.
+- Threat information security as an integral part of any kind of project undertaken by the organization.
+
+The idea is that projects differ from regular activities, they are sometimes unique, and have limited time available for completion, because they may follow procedures and rules that differ from the ones commonly used in the organization.
+
+### A 5.9 Inventory of information and other associated assets
+
+- Develop and maintain an inventory of information and other associated assets, including owners.
+- Assets shall be included in one or several inventories and owned.
+
