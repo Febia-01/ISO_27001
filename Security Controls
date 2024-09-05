@@ -64,3 +64,35 @@ The idea is that projects differ from regular activities, they are sometimes uni
 - Develop and maintain an inventory of information and other associated assets, including owners.
 - Assets shall be included in one or several inventories and owned.
 
+### A 5.10 Acceptable use of information and other associated assets
+
+- Identify, document and implement rules for the acceptable use and procedures for handling information and other associated assets.
+- Consider a topic - specific policy on the acceptable use of information and other associated assets.
+
+### A 5.11 Return of assets
+
+- Ensure personnel and other interested parties return the assets in their possession and belonging to the organization, when their employment, contract or agreement is terminated or changed.
+- Prevent confidential information being left on devices and restrict access to data for those ending or changing their relationship with the organization.
+
+### A 5.12 Classification of information
+
+- Classify information in accordance with the information security needs of the organization, based on confidentiality, integrity, availability and the relevant requirements of interested parties.
+- Consider a topic - specific policy on information classification, this is a recommendation by ISO/IEC 27002 standard.
+- Adopt a classification scheme (e.g., Confidential, Restricted, Internal use, Public)
+
+ISO 27001 does not have any requirements as to how exactly this scheme should look like. So, it is the choice of each organization.
+
+### A 5.13 Labelling of information
+
+- Develop and implement an appropriate set of procedures for information labelling, in accordance with the classification scheme adopted.
+- Labelling ensures that persons in the organization are aware of the classification of the information they use.
+
+To reduce workload, in certain circumstances like the case of public documents, labels can be omitted. And this is something that should be specified in the labelling procedure. 
+
+### A 5.14 Information transfer
+
+- Ensure that rules, procedures or agreements are in place for the transfer of information within the organization and between the organization and other parties, for all types of transfer facilities.
+- Apply controls in line with the classification of the information transferred.
+- Consider the transfer of information on electronic and paper support, as well as the verbal transfer of information.
+
+ISO/IEC 27002 provides some guidelines for electronic transfers, transfer of information on physical support including paper and for verbal transfer of information.
