@@ -2,11 +2,11 @@ There are 93 security controls that an organization must apply, must implement, 
 
 ## Organizational controls
 
-All the controls that has to be applied in an organization level comes under this category. There are 37 controls under this category.
+All the controls that have to be applied at an organization level come under this category. There are 37 controls under this category.
 
-### A 5.1 Policies for information security
+### A 5.1 Policies for Information Security
 
-- Define, approve by management, publish, communicate and acknowledge by relevant personnel and interested parties on information security policy and topic - specific policies. The policies must be reviewed at planned intervals and in case of significant changes.
+- Define, approve by management, publish, communicate, and acknowledge by relevant personnel and interested parties on information security policy and topic-specific policies. The policies must be reviewed at planned intervals and in case of significant changes.
 - A high-level information security policy supported by topic-specific policies on different subjects (e.g., incident management, access control, backup, asset management, etc.)
 
 ### A 5.2 Information security roles and responsibilities
@@ -20,30 +20,30 @@ The standard is not very prescriptive here. It offers freedom to the organizatio
 
 - Segregate conflicting duties and areas of responsibility.
 - Avoid the situation where a single person has full control.
-- Consider key transactions, relationships or activities.
+- Consider key transactions, relationships, or activities.
 
 It’s up to the organization to determine where segregation is necessary and how this principle will be applied.
 
 ### A 5.4 Management Responsibilities
 
 - All personnel shall be required by management to apply information security according to the policies and procedures of the organization.
-- Top management plays a key role for information security.
+- Top management plays a key role in information security.
 
-The management should ensure that a whistle blowing system exists so that violations of information security rules can be reported.
+The management should ensure that a whistle-blowing system exists so that violations of information security rules can be reported.
 
-### A 5.5 Contact with authorities
+### A 5.5 Contact with Authorities
 
 - Establish and maintain contact with relevant authorities.
-- To prepare for upcoming legal changes, to improve legal and regulatory compliance and to be use in case of security incidents.
+- To prepare for upcoming legal changes, to improve legal and regulatory compliance, and to be used in case of security incidents.
 
-Maintaining contact with the authorities is both preventive and corrective control. And to implement this control the management should appoint one or more individuals to have this responsibility of maintaining the contact.
+Maintaining contact with the authorities is both preventive and corrective control. To implement this control the management should appoint one or more individuals to have the responsibility of maintaining the contact.
 
-### A 5.6 Contact with special interest groups
+### A 5.6 Contact with Special Interest Groups
 
-- Establish and maintain contacts with special interest groups, security forums or professional associations.
+- Establish and maintain contacts with special interest groups, security forums, or professional associations.
 - To stay informed about threats or security best practices and to get support when dealing with a security incident.
 
-Maintaining contact with the special interest groups is both preventive and corrective control. And to implement this control the management should appoint one or more individuals to have this responsibility of maintaining the contact.
+Maintaining contact with the special interest groups is both preventive and corrective control. To implement this control the management should appoint one or more individuals to have the responsibility of maintaining the contact.
 
 ### A 5.7 Threat intelligence
 
@@ -55,7 +55,7 @@ An organization can produce threat intelligence on its own. But this is difficul
 ### A 5.8 Information security in project management
 
 - Integrate information security into project management.
-- Threat information security as an integral part of any kind of project undertaken by the organization.
+- Threat information security is an integral part of any kind of project undertaken by the organization.
 
 The idea is that projects differ from regular activities, they are sometimes unique, and have limited time available for completion, because they may follow procedures and rules that differ from the ones commonly used in the organization.
 
@@ -66,33 +66,33 @@ The idea is that projects differ from regular activities, they are sometimes uni
 
 ### A 5.10 Acceptable use of information and other associated assets
 
-- Identify, document and implement rules for the acceptable use and procedures for handling information and other associated assets.
-- Consider a topic - specific policy on the acceptable use of information and other associated assets.
+- Identify, document, and implement rules for the acceptable use and procedures for handling information and other associated assets.
+- Consider a topic-specific policy on the acceptable use of information and other associated assets.
 
 ### A 5.11 Return of assets
 
-- Ensure personnel and other interested parties return the assets in their possession and belonging to the organization, when their employment, contract or agreement is terminated or changed.
-- Prevent confidential information being left on devices and restrict access to data for those ending or changing their relationship with the organization.
+- Ensure personnel and other interested parties return the assets in their possession and belonging to the organization when their employment, contract, or agreement is terminated or changed.
+- Prevent confidential information from being left on devices and restrict access to data for those ending or changing their relationship with the organization.
 
 ### A 5.12 Classification of information
 
-- Classify information in accordance with the information security needs of the organization, based on confidentiality, integrity, availability and the relevant requirements of interested parties.
-- Consider a topic - specific policy on information classification, this is a recommendation by ISO/IEC 27002 standard.
+- Classify information following the information security needs of the organization, based on confidentiality, integrity, availability, and the relevant requirements of interested parties.
+- Consider a topic-specific policy on information classification, this is a recommendation by ISO/IEC 27002 standard.
 - Adopt a classification scheme (e.g., Confidential, Restricted, Internal use, Public)
 
-ISO 27001 does not have any requirements as to how exactly this scheme should look like. So, it is the choice of each organization.
+ISO 27001 does not have any requirements as to what exactly this scheme should look like. So, it is the choice of each organization.
 
 ### A 5.13 Labelling of information
 
-- Develop and implement an appropriate set of procedures for information labelling, in accordance with the classification scheme adopted.
+- Develop and implement an appropriate set of procedures for information labeling, under the classification scheme adopted.
 - Labelling ensures that persons in the organization are aware of the classification of the information they use.
 
-To reduce workload, in certain circumstances like the case of public documents, labels can be omitted. And this is something that should be specified in the labelling procedure. 
+To reduce workload, in certain circumstances like the case of public documents, labels can be omitted. And this is something that should be specified in the labeling procedure. 
 
 ### A 5.14 Information transfer
 
-- Ensure that rules, procedures or agreements are in place for the transfer of information within the organization and between the organization and other parties, for all types of transfer facilities.
+- Ensure that rules, procedures, or agreements are in place for the transfer of information within the organization and between the organization and other parties, for all types of transfer facilities.
 - Apply controls in line with the classification of the information transferred.
 - Consider the transfer of information on electronic and paper support, as well as the verbal transfer of information.
 
-ISO/IEC 27002 provides some guidelines for electronic transfers, transfer of information on physical support including paper and for verbal transfer of information.
+ISO/IEC 27002 provides some guidelines for electronic transfers, and transfer of information on physical support including paper and verbal transfer of information.
