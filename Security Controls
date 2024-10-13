@@ -365,3 +365,101 @@ ISO/IEC 27002 offers some recommendations for documenting operating procedures:
 - It’s a good idea to have procedures for the activities that are performed rarely.
 - When activities are transferred to a new personnel it’s recommended to document procedures to explain how those activities are to be carried out.
 etc.
+
+## People Controls
+
+There are 8 controls under this category. 
+
+### A 6.1 Screening
+
+- Carry out background checks on all candidates to become personnel before joining the organization and on an ongoing basis, considering the applicable laws, regulations, and ethics. The checks must be proportional to the business requirements, the perceived risks, and the classification of information to be accessed.
+- To prevent hiring the wrong person and to ensure personnel remain suitable for the job.
+- The screening applies to all who work in the company (employees, consultants, freelancers, temporary staff, etc.)
+
+The purpose of Screening control is quite obvious, to prevent the organization from hiring the wrong person and it should also confirm that the individual remains suitable for the job.
+
+**What aspects should be included in the screening?**
+
+In ISO/IEC 27002, screening is an essential component of an organization’s security framework. The process typically includes verifying a candidate’s identity using multiple documents, independently confirming academic and professional qualifications (preferably by direct contact with educational institutions), closely examining the candidate’s resume, and reviewing professional references. Depending on the organization's requirements, additional checks may be necessary, such as criminal record reviews or credit history checks. The depth and scope of these background checks are determined by the organization’s business needs, the classification level of the information the individual will access, and the security risks related to the role and responsibilities of the candidate.
+
+In some cases, organizations may deem it necessary to conduct further assessments, such as drug tests, polygraph exams, or other specific evaluations, to mitigate potential risks. It's critical to note that screening involves the handling of personally identifiable information (PII). Consequently, organizations must comply with relevant privacy legislation and obtain the candidate’s explicit consent for the screening process. Additionally, clear guidelines should be in place regarding the retention and disposal of personal data collected during screening, particularly for candidates who are not selected for employment.
+
+Organizations are advised to formalize their screening procedures in a documented process, outlining responsibilities for conducting verifications, detailing the methodology for screenings, and specifying any limitations. This procedure should also include provisions for ongoing screenings, not just at the time of initial employment. Periodic re-screenings should be conducted based on the conditions established by the organization, particularly when an individual transitions to a new position involving different security risks or access to more sensitive information. In such cases, screening should be reevaluated in light of the new circumstances to ensure continuous security compliance.
+
+### A 6.2 Terms and conditions of employment
+
+- It requires to state in the employment contractual agreements the personnel's and the organization's responsibilities for information security
+- Consider for inclusion in contracts the rules for access control, return of assets, protection of information following its classification level, the transfer of information, the relationship with suppliers, non-disclosure requirements, or a mention of the disciplinary process.
+
+**What information security responsibilities should be part of the contract?**
+
+ISO/IEC 27002 provides important recommendations for integrating information security into the employment lifecycle. One key aspect is ensuring that employees adhere to the organization's policies on access control, asset use, asset return, and information protection. These policies must be aligned with the classification of information and the organization's security protocols for data transfer and supplier relationships.
+
+Employment contracts should incorporate specific requirements for non-disclosure, particularly for employees who will have access to confidential or sensitive information. In addition, the disciplinary process— which may be discussed in further detail within organizational policy— can be referenced in these contracts. This includes confidentiality obligations that remain enforceable even after the employee departs from the organization.
+
+These are just a few examples of the information security clauses that can be included in employment contracts. Alternatively, organizations may opt for a different approach, such as creating a comprehensive document like a Code of Conduct. This document can outline all relevant information security requirements, and adherence to it can be mandated in the employment contract. By doing so, organizations can link security obligations to contractual agreements without embedding every requirement directly into the contract, ensuring flexibility and clarity while maintaining security standards.
+
+### A 6.3 Information security awareness, education, and training
+
+- Ensure that personnel and relevant interested parties receive appropriate information security awareness, education and training, and regular updates of the organization's information security policy, topic-specific policies, and procedures, as relevant for their job functions.
+- Awareness refers to all who work for the organization, and it should focus also on "why" and not only on "what".
+- The education and training refer mainly to the technical personnel who need specific knowledge and skills.
+
+The purpose of Information security awareness, education, and training is to ensure an adequate level of competence and information security awareness for the persons who work for the company.
+
+ISO/IEC 27002 emphasizes that awareness efforts should not only explain what actions need to be taken but also clarify the underlying reasons behind them. Employees should understand both the requirements and the purpose of these measures, as well as the potential impact their actions and behaviors can have on information security. Awareness programs typically cover fundamental security practices such as incident reporting, basic controls like malware protection and strong password selection, and the principle that each individual is accountable for their actions. Additionally, these efforts highlight the organization's commitment, especially from top management, to continuously improve information security.
+
+In addition to awareness, ISO/IEC 27002 also stresses the importance of education and training for technical personnel. These individuals need specialized skills and knowledge to maintain the security of devices, services, and applications. Organizations must ensure that these skills are readily available, whether through internal training programs, providing access to external courses, allocating time and resources for self-study, or encouraging participation in industry-specific groups or forums. If necessary, the organization should also be prepared to hire or contract experts from outside to ensure that the required level of technical competence is achieved and maintained.
+
+### A 6.4 Disciplinary process
+
+- Establish and communicate a disciplinary process to take action against personnel and other interested parties who have committed an information security policy violation.
+- Everyone in the organization should be aware of the disciplinary process.
+- It may also include rewards for those who demonstrate excellent information security behavior.
+
+This may be seen as a sensitive matter because it involves punishments, but it may also include rewards for those who demonstrate excellent information security behaviors.
+
+### A 6.5 Responsibilities after termination or change of employment
+
+- Define, enforce, and communicate to relevant personnel and interested parties the information security responsibilities and duties that remain valid after termination or change of employment.
+- Determine if there are confidentiality requirements that extend beyond the period of employment.
+- Apply a similar process for the change of employment.
+
+### A 6.6 Confidentiality or non-disclosure agreements
+
+- Personnel and other interested parties shall sign confidentiality or non - disclosure agreements that reflect the organization's needs for protecting information.
+- Consider that there may be different confidentiality requirements for the different positions in the organization.
+
+ISO/IEC 27002 offers several recommendations for what should be included in a confidentiality or non-disclosure agreement (NDA). These agreements should clearly define the information that requires protection, such as data labeled as confidential, restricted, or for internal use. The agreement must outline measures to prevent unauthorized access to this information and specify the actions that should be taken in the event of an information leak, whether suspected or confirmed.
+
+The NDA should also detail the potential consequences for employees who violate the terms of the agreement. Furthermore, it should cover any obligations that remain in effect after employment ends, such as ongoing confidentiality commitments, as previously discussed. The agreement may also include conditions for the return of confidential information to the organization, or requirements for securely destroying the information when the agreement is terminated.
+
+These elements, as recommended by ISO/IEC 27002, form the foundation of a robust confidentiality or non-disclosure agreement. Organizations may tailor these agreements further, incorporating additional provisions as needed, provided they align with applicable laws and regulations.
+
+### A 6.7 Remote Working
+
+Remote working is not only about working from home but about working from any location that is not under the organization’s control.
+
+- Implement security measures when personnel are working remotely to protect the information accessed, processed, or stored outside the organization's premises.
+- Consider a topic-specific policy for remote working, supported by procedures to detail how the security risks associated with working remotely are to be managed.
+
+ISO/IEC 27002 recommends the establishment of a topic-specific policy on remote working, which should address key aspects related to security and operations. This policy should define the types of work that can be performed remotely, as well as the types of information that may be accessed or processed from remote locations. It should also clarify who has the authority to approve remote work arrangements and outline the physical security requirements for remote working environments.
+
+Other critical considerations include communication requirements for accessing the organization’s systems and applications, and whether the company will provide the necessary equipment or allow the use of personal devices for work purposes. These general provisions set the foundation for secure and controlled remote work.
+
+In addition to the policy, a detailed procedure should be implemented to manage the risks associated with remote work. These risks include unauthorized access to equipment and information, as well as the potential for communication channels between the company and the remote working site to be compromised. The procedure should address secure communication protocols, including requirements for two-factor authentication, backup processes, and device tracking. It should also ensure the organization can remotely wipe data from devices used at remote sites if necessary.
+
+Further, the procedure should cover the revocation of access rights for remote workers when needed, and establish requirements for firewalls, malware protection, and restrictions on the use of public networks. By addressing these areas, organizations can create a robust framework that mitigates the security risks associated with remote work while ensuring operational efficiency and data protection.
+
+### A 6.8 Information security event reporting
+
+The idea of this control is to ensure that the company has an adequate solution for reporting information security events. It can be an online platform. It can be through the use of emails or instant messages.
+
+- Provide a mechanism for personnel to report observed or suspected information security events promptly, through appropriate channels.
+- Establish an accessible and easy-to-understand system for personnel to report information security events.
+
+ISO/IEC 27002 provides several examples of what should be considered a security event that must be reported, whether observed or suspected. These include instances where a security control is not functioning properly or as intended, human errors, unauthorized access, uncontrolled changes to systems or applications, and malfunctions of hardware or software.
+
+Such events, when identified, must be reported immediately through the organization’s approved reporting channels. The prompt reporting of information security events is critical because even a few minutes can have a significant impact on the potential consequences of a security incident. Timely reporting allows the organization to respond swiftly and effectively, minimizing damage and addressing vulnerabilities before they escalate.
+
+The emphasis on quick and accurate reporting underlines the importance of having clear communication processes in place to ensure that all security events are properly handled and mitigated promptly.
