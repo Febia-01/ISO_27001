@@ -250,3 +250,118 @@ Well, **according to ISO/IEC 27002,**
 → Ensure suppliers have adequate business continuity and disaster recovery arrangements to continue providing services at an adequate level in case of a major failure or disaster.
 
 → Investigate any operational problems, events, or disruptions in the provision of services, and review audit trails or records.
+
+### A 5.23 Information security for use of cloud services
+
+- Establish processes for the acquisition, use, management, and exit from cloud services by the information security requirements of the organization.
+- Consider a topic-specific policy for principles and generic requirements on the use of cloud services.
+- As necessary, do a risk assessment and implement controls to address the security risks of the use of cloud services.
+
+In the previous edition of ISO 27001, we did not have a control dedicated to cloud services.
+
+ISO/IEC 27002 recommends the company do a risk assessment and then implement controls that it considers to be appropriate to mitigate the risks of the use of cloud services.
+
+### A 5.24 Information security incident management planning and preparation
+
+- Plan and prepare for managing information security incidents by defining, establishing, and communicating information security incident management processes, roles, and responsibilities.
+- Event != incident
+
+An information security event is a situation that indicates a possible breach of the information security policy, or a failure of controls.
+
+An information security incident refers to one or more unwanted or unexpected events that have a significant probability of compromising business operations and that threaten information security.
+
+ISO/IEC 27002, recommends the methods for reporting information security events and processes for managing information security incidents.
+
+ISO/IEC 27035 → Information security incident management.
+
+### A 5.25 Assessment and decision on information security events
+
+- Assess information security events and decide if they will be categorized as incidents.
+- Triage of events to determine which events represent information security incidents.
+
+### A 5.26 Response to information security incidents
+
+- Respond to information security incidents following documented procedures.
+
+### A 5.27 Learning from Information Security Incidents
+
+- Use the knowledge gained from information security incidents to strengthen and improve the information security controls.
+- The lessons learned while dealing with security incidents can prove useful for preventing future incidents and for improving the response of the organization.
+
+### A 5.28 Collection of evidence
+
+- Establish and implement procedures for the identification, collection, acquisition, and preservation of evidence related to information security events.
+- Collected evidence may help the organization in case of a contractual dispute or investigation.
+- Consider the competence of those involved in the collection and protection of evidence.
+
+ISO/IEC 27037 → Guidelines for identification, collection, acquisition, and prevention of digital evidence. 
+
+An important mention is for the company to be aware of the relevant legislation on this subject, which means, the information should be accepted in the court or by authorities.
+
+### A 5.29 Information security during disruption
+
+- Plan how to maintain information security at an appropriate level during disruption.
+- Prepare to maintain an adequate level of information security in case of a major incident.
+
+The business continuity strategies and plans of the organization should include provisions for how information security will continue to operate in case of a major incident.
+
+Business continuity is of course a discipline of its own and ISO has addressed it in a series of standards for those organizations that want to implement a business continuity management system.
+
+ISO 22301 & ISO 22302 are popular standards for this discipline.
+
+### A 5.30 ICT readiness for business continuity
+
+- Plan, implement, maintain, and test ICT readiness based on the business continuity objectives and ICT continuity requirements.
+- Key activities rely on ICT (information and communication technology)
+- Understand ICT readiness requirements and address the risks of prioritized activities being disrupted.
+
+### A 5.31 Legal, statutory, regulatory and contractual requirements
+
+- Identify, document, and keep up to date the legal, statutory, regulatory, and contractual requirements relevant to information security along with the organization's approach to meet them.
+- Assign responsibilities for identifying and keeping up-to-date legal, statutory, regulatory, and contractual requirements that refer to information security.
+
+ISO 27001 does not explicitly require here legal compliance audits, but this is an option for the organization to confirm that legal and other requirements are met and to identify potential instances of non-compliance.
+
+### A 5.32 Intellectual property rights
+
+- Implement appropriate procedures to protect intellectual property rights.
+- Consider a topic-specific policy to outline the commitment to the protection of intellectual property rights.
+
+The purpose of this control is to protect the company from the negative consequences, like fines, or bad publicity that may result from ignoring intellectual property rights.
+
+### A 5.33 Protection of records
+
+- Protect records from loss, destruction, falsification, unauthorized access, and unauthorized release.
+- Establish a retention schedule for the records generated.
+- Implement rules for the storage, handling, or disposal of records.
+
+### A 5.34 Privacy and protection of personally identifiable information (PII)
+
+- Identify and meet the requirements regarding the preservation of privacy and protection of PII according to applicable laws, regulations, and contractual requirements.
+- Identify the applicable legislation, regulations, and contractual requirements and ensure compliance.
+
+We don’t have a requirement in ISO/IEC 27001 for the appointment of a DPO (Data Protection Officer) or a similar role unless the legislation requires so. This approach is recommended in ISO/IEC 27002 to make sure that privacy responsibilities are assigned and communicated. 
+
+### A 5.35 Independent review of information security
+
+- Review independently at planned intervals and whenever significant changes occur, the approach to managing information security and its implementation, including people, processes, and technology
+- The reviews should be conducted by competent persons who are independent of the activities reviewed.
+
+Independent reviews include internal audits & external audits.
+
+### A 5.36 Compliance with policies, rules, and standards for information security
+
+- Review regularly compliance with the organization's information security policy, topic-specific policies, rules, and standards.
+- The reviews should be conducted by managers, product, service, or information owners. Consider inspections, observation, or the use of automated tools.
+
+### A 5.37 Documented operating procedures
+
+- Document and make available to the personnel who need operating procedures for information processing facilities.
+- Consider documenting procedures for activities to be performed by many employees in the same way, for activities performed rarely, when activities are transferred to new personnel, or for new activities.
+
+ISO/IEC 27002 offers some recommendations for documenting operating procedures:
+
+- The company should have procedures for activities that are intended to be performed in the same way by many employees.
+- It’s a good idea to have procedures for the activities that are performed rarely.
+- When activities are transferred to a new personnel it’s recommended to document procedures to explain how those activities are to be carried out.
+etc.
